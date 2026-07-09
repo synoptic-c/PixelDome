@@ -8,7 +8,7 @@ Editor   F2
 
 # Dependencies
 -GLFW      latest
--glad      3.3
+-glad      Core 3.3
 -stb_image latest
 -glm       latest
 -nlohmann  latest
