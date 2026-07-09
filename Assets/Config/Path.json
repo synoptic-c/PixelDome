@@ -1,0 +1,8 @@
+{
+  "window": "Assets/Config/Window.json",
+  "projection": "Assets/Config/Projection.json",
+  "player": "Assets/Config/Player.json",
+  "tile": "Assets/Config/Tile.json",
+  "quad": "Assets/Data/Quad.json",
+  "mapSaveDefault": "Assets/Levels/"
+}

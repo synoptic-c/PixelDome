@@ -1,0 +1,11 @@
+{
+  "widthCount": 17,
+  "heightCount": 10,
+  "halfSize": 0.5,
+  "names": [ "floor", "wall", "cement", "grindingCement", "water" ],
+  "shaderIndices": [ 0, 0, 0, 0, 1 ],
+  "solids": [ 0, 1, 0, 0, 1 ],
+  "vertexPaths": [ "Assets/Shaders/Basic.vert", "Assets/Shaders/Basic.vert" ],
+  "fragmentPaths": [ "Assets/Shaders/Basic.frag", "Assets/Shaders/Water.frag" ],
+  "texturePaths": [ "Assets/Textures/Floor.png", "Assets/Textures/Wall.png", "Assets/Textures/Cement.png", "Assets/Textures/GrindingCement.png", "Assets/Textures/Water.png" ]
+}

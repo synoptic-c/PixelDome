@@ -1,0 +1,18 @@
+{
+  "speed": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "size": {
+    "x": 0.75,
+    "y": 0.75
+  },
+  "acceleration": 1.0,
+  "drag": 0.8,
+  "width": 0.375,
+  "height": 0.375,
+  "animationState": 0,
+  "vertexPath": "Assets/Shaders/Basic.vert",
+  "fragmentPath": "Assets/Shaders/Basic.frag",
+  "texturePaths": [ "Assets/Textures/Player.png" ]
+}

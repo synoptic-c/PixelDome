@@ -1,0 +1,32 @@
+{
+  "mapName": "Room",
+  "playerPosition": {
+    "x": 2.0,
+    "y": 2.0
+  },
+  "widthCount": 5,
+  "heightCount": 5,
+  "loadPositionXs": [
+    3.5
+  ],
+  "loadPositionYs": [
+    1.5
+  ],
+  "mapPaths": [
+    "Scene"
+  ],
+  "levelData": [
+    1, 1, 1, 1, 1,
+    1, 0, 0, 0, 1,
+    1, 0, 0, 0, 1,
+    1, 0, 0, 0, 1,
+    1, 0, 1, 1, 1
+  ],
+  "mapIndices": [
+    -1, -1, -1, -1, -1,
+    -1, -1, -1, -1, -1,
+    -1, -1, -1, -1, -1,
+    -1, -1, -1, -1, -1,
+    -1,  0, -1, -1, -1
+  ]
+}
