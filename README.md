@@ -7,6 +7,8 @@ DebugGui F1
 Editor   F2
 
 # Dependencies
+-CMake     3.10+
+-C++       20
 -GLFW      latest
 -glad      core 3.3
 -stb_image latest
