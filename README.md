@@ -1,16 +1,17 @@
-# PixelDome
-Simple top down game demo
+# 环境
 
-# Control
-Move     WASD
-DebugGui F1
-Editor   F2
+CMake  3.15
 
-# Dependencies
--CMake     3.10+
--C++       20
--GLFW      latest
--glad      core 3.3
--stb_image latest
--glm       latest
--nlohmann  latest
+C++    20
+
+OpenGL 3.3
+
+#库
+
+GLFW      latest
+
+stb_image latest
+
+glm       latest
+
+nlohmann  latest
