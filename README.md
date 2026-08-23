@@ -2,7 +2,7 @@
 
 CMake  3.10
 
-C++    20
+C++    17
 
 OpenGL 3.3
 
