@@ -10,8 +10,6 @@ OpenGL 3.3
 
 ## 路径
 
-**自行配置
-
 Vendor/Include/glad/glad.h
 
 Vendor/Include/GLFW    | 默认
@@ -63,8 +61,6 @@ Vendor/Source/stb_image.cpp
 # 贴图
 
 ## 路径
-
-**自行添加**
 
 Assets/Textures/Cement.png
 
